@@ -1,0 +1,3 @@
+Bevanfuck is a basic but fully complete interpreter for the esoteric programming language Brainfuck. It is licensed under the MIT License and written in Python.
+
+To run it, run the Python script and pass your Brainfuck code as the programs sole argument.
